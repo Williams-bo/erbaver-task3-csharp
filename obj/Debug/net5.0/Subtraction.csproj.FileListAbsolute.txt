@@ -1,0 +1,16 @@
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/Subtraction
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/Subtraction.deps.json
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/Subtraction.runtimeconfig.json
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/Subtraction.runtimeconfig.dev.json
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/Subtraction.dll
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/ref/Subtraction.dll
+/home/williams/Desktop/Erbaver/Subtraction/bin/Debug/net5.0/Subtraction.pdb
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.csproj.AssemblyReference.cache
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.AssemblyInfoInputs.cache
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.AssemblyInfo.cs
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.csproj.CoreCompileInputs.cache
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.dll
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/ref/Subtraction.dll
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.pdb
+/home/williams/Desktop/Erbaver/Subtraction/obj/Debug/net5.0/Subtraction.genruntimeconfig.cache
